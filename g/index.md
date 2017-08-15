@@ -4,13 +4,13 @@
 
 Character classes: Ability cards, player sheets
 
-#### e/
+#### i/
 
 Equipment: Items and such
 
-#### i/
+#### e/
 
-Icons, for use in decals
+Enhancement icons, for use in decals
 
 #### m/
 
