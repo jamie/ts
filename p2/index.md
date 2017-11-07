@@ -4,6 +4,10 @@
 
 Character portraits
 
+#### job/
+
+Character job stickers
+
 #### pop/
 
 Population stickers
