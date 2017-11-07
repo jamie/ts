@@ -5,3 +5,4 @@ This is basically so I can have sane/predictable URLs, and also avoid Imgur conv
 
 * *g* Gloomhaven
 * *h* HEXPANSE
+* *p2* Pandemic Legacy: Season 2
